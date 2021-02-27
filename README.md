@@ -1,2 +1,2 @@
 # Spleef
- This is a project I made for Advance Computer Science Class in 10th grade
+ Spleef-a minecraft classic, but in 2D . Made in Java and Processing. 
